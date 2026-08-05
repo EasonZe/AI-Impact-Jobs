@@ -32,7 +32,6 @@
 - JavaScript
 - Treemap 可视化
 - 响应式网页设计
-- ChatGPT-5.5 辅助生成
 
 ## 项目特点
 
